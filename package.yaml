@@ -1,0 +1,11 @@
+name: blank-canvas-touch
+version: 0
+synopsis: issue 96
+ghc-options: -threaded
+
+dependencies:
+        - base
+        - blank-canvas >= 0.8
+
+executable:
+        main: main.hs
