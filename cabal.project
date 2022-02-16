@@ -1,7 +1,10 @@
 packages: .
 allow-newer: base
 
+package blank-canvas
+  optimization: False
+
 source-repository-package
  type: git
  location: https://github.com/aavogt/blank-canvas
- tag: 72e0f439738931d8ea5821349e6f444345148e77
+ tag: d3f7fe4ef3f8989eb24c682b0b3d5deef652e168
